@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['923060619701', 'ₙₛ ᵦₐₗₒʗⲏ', true],
   [''],
   [''] 
 ] //Number of owners
-
-global.mods = ['919074692450','919074692450'] 
+ₙₛ ᵦₐₗₒʗⲏ
+global.mods = ['923060619701','923060619701'] 
 global.prems = ['919074692450', '919074692450', '919074692450']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'ₙₛ ᵦₐₗₒʗⲏ'
 global.premium = 'true'
 global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
 global.author = 'ABHISHEK SURESH' 
